@@ -1,7 +1,7 @@
-import StreamCreate from './components/streams/StreamCreate';
-import StreamDelete from './components/streams/StreamDelete';
-import StreamEdit from './components/streams/StreamEdit';
-import StreamList from './components/streams/StreamList';
-import StreamShow from './components/streams/StreamShow';
+import StreamCreate from './StreamCreate';
+import StreamDelete from './StreamDelete';
+import StreamEdit from './StreamEdit';
+import StreamList from './StreamList';
+import StreamShow from './StreamShow';
 
 export {StreamCreate, StreamDelete, StreamEdit, StreamList, StreamShow};
